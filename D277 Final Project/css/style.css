@@ -1,0 +1,100 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(../assets/bigger-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#nobackground {
+  font-family: 'Montserrat', sans-serif;
+  background-image: none;
+  
+}
+
+nav {
+    font-weight: 700;
+    font-size: larger;
+    position: absolute;
+}
+
+.navbar:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.dropdown-menu {
+    font-weight: 700;
+    font-size: large;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: larger;
+}
+
+.contactpage {
+  font-weight: 700;
+  font-size: large;
+}
+
+thead {
+  font-weight: 400;
+}
+
+footer {
+    position: static;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  #back-to-top {
+    
+    text-decoration: none;
+    
+  }
+  
+  #back-to-top.show {
+    display: block;
+  }
+
+  table {
+    float: right;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  td {
+    font-weight: 400;
+    position: relative;
+  }
+
+#emailMatchMessage {
+  color: red;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.flash {
+  animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+ 
+  
+ 
