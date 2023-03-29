@@ -51,6 +51,12 @@ footer {
     text-align: center;
     padding: 10px;
   }
+
+  footer .container-fluid {
+    text-align: left;
+    font-style: italic;
+
+  }
   
   #back-to-top {
     
