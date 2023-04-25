@@ -1,6 +1,9 @@
 # d277
 Front-End Web Development - D277
 
+The site is located here:
+http://nickhub.atwebpages.com/index.html
+
 These are the project requirements:
 
 A.  Create 4–10 web pages of content for your website with a main page that introduces the state of your choice and 
